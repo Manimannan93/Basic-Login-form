@@ -1,0 +1,52 @@
+body{
+    background: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    /* background-image: url(/Signup/Image/Signupimg.jpg); */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    .registerform{
+        background-color: rgba(0, 0, 0,0.5);
+        width: 500px;
+        margin: 250px auto;
+        padding: 10px 30px;
+        border-radius: 10px;
+        margin: 10px auto;
+
+}
+h1{
+    text-align: center;
+    color: #FFDFD4;
+}
+.block{
+    display: block;
+    text-align: center;
+}
+.Input input{
+    width: 100%;
+    font-size: 1em;
+    border: 1px solid black;
+    box-shadow: 10px;
+    border-radius: 5px;
+    align-items: center;
+    padding: 5px 5px;
+    box-sizing: border-box;
+    margin: 20px auto;
+
+}
+Input:focus{
+    background-color: #FFDFD4;
+}
+.BTN{
+    text-align: center;
+}
+button{
+    background-color: #E2B3B9;
+    font-size: medium;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 3px red;
+    box-shadow: 2px 2px 8px black;
+    
+}
+
+ 
